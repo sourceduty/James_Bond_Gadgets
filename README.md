@@ -18,6 +18,8 @@ For example, think of the "GoldenEye" watch, which comes with a laser capable of
 [James Bond Chat](https://github.com/sourceduty/James_Bond_Chat)
 <br>
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
+<br>
+[AI + IoT](https://github.com/sourceduty/AI_IoT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
