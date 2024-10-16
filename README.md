@@ -13,6 +13,8 @@ For example, think of the "GoldenEye" watch, which comes with a laser capable of
 #
 ![Technology](https://github.com/user-attachments/assets/778058fa-8482-4823-ae66-385463e5bfe0)
 #
+![Computers](https://github.com/user-attachments/assets/76da7724-90e5-45d1-87d9-777d37cffb8b)
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
