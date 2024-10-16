@@ -1,4 +1,4 @@
-![007](https://github.com/user-attachments/assets/acf7a108-8f43-4292-a7b3-601d5ec67528)
+![Q](https://github.com/user-attachments/assets/cedca9e8-7aac-4258-96a3-8f9927b1f43d)
 
 > Design custom James Bond gadgets using DALL-E 3.
 
