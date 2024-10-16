@@ -17,7 +17,6 @@ For example, think of the "GoldenEye" watch, which comes with a laser capable of
 #
 ![Gadgets](https://github.com/user-attachments/assets/e4c36651-25b1-4dfd-a2e7-477eeee0d9be)
 
-
 #
 ### Related Links
 
@@ -28,6 +27,8 @@ For example, think of the "GoldenEye" watch, which comes with a laser capable of
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
 [AI + IoT](https://github.com/sourceduty/AI_IoT)
+<br>
+[Levitation Lab](https://github.com/sourceduty/Levitation_Lab)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
