@@ -9,6 +9,8 @@
 For example, think of the "GoldenEye" watch, which comes with a laser capable of cutting through metal, as seen in GoldenEye. Another classic is the Aston Martin DB5, first appearing in Goldfinger, equipped with revolving number plates, bulletproof glass, and even an ejector seat for quick getaways. Each gadget from the movies is a perfect blend of practicality and innovation, designed to give Bond an edge over his adversaries. This GPT reimagines gadgets like these, creating updated versions for today’s spy scenarios or entirely new concepts that align with the needs of modern-day espionage.
 
 #
+![Bond 007](https://github.com/user-attachments/assets/e8530aad-1c7e-4ff1-88f9-c01c74cc8dec)
+#
 ### James Bond Gadgets
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
